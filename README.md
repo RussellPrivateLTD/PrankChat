@@ -3,6 +3,8 @@
 Make Every Conversation More Fun!
 
 <p align="center">
+  <img src="prankchat-logo.jpg" alt="PrankChat Official Logo" width="320">
+</p><p align="center">
   <strong>A Creative Offline Fake Chat Experience for Android</strong>
 </p><p align="center">
   <a href="https://github.com/RussellPrivateLTD/PrankChat/releases/tag/v1.0.0">
@@ -24,52 +26,35 @@ PrankChat is a creative and entertainment-focused Android application designed t
 
 Create fictional conversations, customize chat profiles, personalize avatars, and enjoy a creative offline chat experience.
 
-Whether you want to create fun chat scenarios, design fictional conversations, or simply explore creative messaging ideas, PrankChat makes it entertaining.
-
 PrankChat is designed for entertainment and creative simulation — not real messaging.
 
 🚀 Key Features
 
-- 🎭 Fake Chat Simulation – Create fictional Messenger-style conversations.
-- 💬 Creative Conversations – Build your own imaginary chat scenarios.
-- 👤 Custom Chat Profiles – Personalize profile names and details.
-- 🖼️ Avatar Customization – Make chat profiles more personal.
-- 🎨 Modern Interface – Enjoy a clean and familiar chat-inspired design.
-- 📱 Android Experience – Designed specifically for Android devices.
-- 📴 Offline Experience – Enjoy the app without requiring an online messaging service.
+- 🎭 Fake Chat Simulation
+- 💬 Creative Fictional Conversations
+- 👤 Custom Chat Profiles
+- 🖼️ Avatar Customization
+- 🎨 Modern Chat-Inspired Interface
+- 📱 Android Experience
+- 📴 Offline Chat Simulation
 
 📸 App Preview
 
-Explore the PrankChat interface through the screenshots below.
+Explore the PrankChat interface through actual app screenshots.
 
-<!-- Add your actual GitHub screenshot image here --><p align="center">
-  <i>More screenshots and visual previews may be added in future updates.</i>
-</p>📥 Download
+📥 Download
 
-Ready to explore PrankChat?
-
-Download Version 1.0.0:
+PrankChat Version 1.0.0
 
 <p align="center">
   <a href="https://github.com/RussellPrivateLTD/PrankChat/releases/tag/v1.0.0">
-    <img src="https://img.shields.io/badge/Download%20PrankChat-v1.0.0-success?style=for-the-badge&logo=android" alt="Download PrankChat APK">
+    <img src="https://img.shields.io/badge/Download%20PrankChat-v1.0.0-success?style=for-the-badge&logo=android" alt="Download APK">
   </a>
-</p>Visit the GitHub Releases page to access the available APK.
+</p>🔒 Privacy & Transparency
 
-🎯 Who Is PrankChat For?
+PrankChat is an entertainment application focused on simulated conversations. It is not a real messaging platform.
 
-- People who enjoy creative chat simulations.
-- Users who want to create fictional conversations.
-- Content creators making fictional chat scenarios.
-- Anyone looking for an entertaining offline chat experience.
-
-🔒 Privacy & Transparency
-
-PrankChat is an entertainment application focused on simulated conversations.
-
-It is not a real messaging platform and does not represent fictional conversations as genuine communications.
-
-Always use screenshots and generated conversations responsibly.
+Please use fictional conversations responsibly and avoid presenting them as genuine communications.
 
 🛠️ Project Information
 
@@ -80,11 +65,8 @@ Platform| Android
 Version| 1.0.0
 Category| Entertainment
 Experience| Offline Chat Simulation
-Repository| GitHub
 
 🔮 Future Improvements
-
-PrankChat may receive additional improvements and refinements over time.
 
 - UI and design enhancements
 - More customization possibilities
@@ -97,13 +79,13 @@ Russell Private Ltd.
 
 Independent Android App Development.
 
-GitHub: https://github.com/RussellPrivateLTD
+"GitHub Profile" (https://github.com/RussellPrivateLTD)
 
 ⭐ Support the Project
 
-If you find PrankChat interesting, consider giving this repository a ⭐ Star on GitHub.
+If you enjoy PrankChat, consider giving this repository a ⭐ Star on GitHub.
 
-Your support helps increase the visibility of the project and encourages future development.
+Your support encourages future development and helps more people discover the project.
 
 ---
 
