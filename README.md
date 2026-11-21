@@ -3,6 +3,8 @@
 Make Every Conversation More Fun!
 
 <p align="center">
+  <img src="file_00000000c21c820782227a66405bf2b3.png" alt="PrankChat Official Promotional Banner" width="100%">
+</p><p align="center">
   <strong>✨ A Creative Offline Fake Chat Experience for Android ✨</strong>
 </p><p align="center">
   <a href="https://github.com/RussellPrivateLTD/PrankChat/releases/tag/v3.1.0">
@@ -59,6 +61,8 @@ Latest Version: 3.1.0
     <img src="https://img.shields.io/badge/GET%20PRANKCHAT-DOWNLOAD%20NOW-20C65A?style=for-the-badge&logo=android">
   </a>
 </p>Download the latest APK from the official GitHub Releases page.
+
+🔗 Download: https://github.com/RussellPrivateLTD/PrankChat/releases/tag/v3.1.0
 
 🔐 Privacy & Transparency
 
